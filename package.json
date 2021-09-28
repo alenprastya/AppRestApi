@@ -1,0 +1,25 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "Membuat App Rest APi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alenprastya/AppRestApi.git"
+  },
+  "keywords": [
+    "res",
+    "Api",
+    "Node",
+    "Js"
+  ],
+  "author": "Alen Prastya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alenprastya/AppRestApi/issues"
+  },
+  "homepage": "https://github.com/alenprastya/AppRestApi#readme"
+}
